@@ -57,6 +57,7 @@ int main()
 
 	std::cin.get();
 	std::cin.get();
+	return 0;
 }
 
 // assuming 16 byte aligned arrays
