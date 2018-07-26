@@ -14,3 +14,9 @@ Benchmarking sse implementation: 128.378 micro seconds
 Data count : 8000000
 Benchmarking normal implementation: 25797.5 micro seconds
 Benchmarking sse implementation: 13620.9 micro seconds
+
+| Datacount     | Normal (micro seconds)| SSE (micro seconds)|
+| ------------- |:-------------:        | -----:             |
+|         8     | 0.377593              | 0                  |
+| 800           | 2.2655                |   1.51031          |
+| 80000         | 203.139               |   128.378          |
