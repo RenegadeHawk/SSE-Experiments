@@ -29,7 +29,7 @@ int main()
 		array0[i] = array1[i] = rand()%50 + 36000;
 	}
 
-	//Variable tp track time elapsed to execute for both functions
+	//Variables tp track time elapsed to execute for both functions
 	double t0, t1, t;
 
 	//Benchmarking normal implementation
